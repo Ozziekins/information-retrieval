@@ -1,0 +1,1368 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Basic Page Needs =====================================-->
+	<meta charset="utf-8">
+
+	<!-- Mobile Specific Metas ================================-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Site Title- -->
+      <title> Alfajr News | Alfajr News | </title>
+      		<meta name="description" content="Alfajr News">
+		<meta name="keywords" content="Fajr,fajr news,news,....">
+
+	<!-- CSS
+   ==================================================== -->
+	<!-- Bootstrap -->
+	<!-- <link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="https://cdn.rtlcss.com/bootstrap/v4.0.0/css/bootstrap.min.css"
+		integrity="sha384-P4uhUIGk/q1gaD/NdgkBIl3a6QywJjlsFJFk7SPRdruoGddvRVSwv5qFnvZ73cpz" crossorigin="anonymous">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/font-awesome.min.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/animate.css">
+
+	<!-- IcoFonts -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/icofonts.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/owlcarousel.min.css">
+
+	<!-- slick -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/slick.css">
+
+	<!-- navigation -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/navigation.css">
+
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/magnific-popup.css">
+<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/ion.calendar.css">
+	<!-- Style -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/style.css">
+
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/colors/color-2.css">
+
+    <link rel="shortcut icon" href="https://alfajr-news.net/template/ar/images/logo.png" type="image/x-icon">
+    <link rel="icon" href="https://alfajr-news.net/template/ar/images/logo.png" type="image/x-icon">
+	<!-- Responsive -->
+	<link rel="stylesheet" href="https://alfajr-news.net/template/ar/css/responsive.css">
+	<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap" rel="stylesheet">
+	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6724441300489773" crossorigin="anonymous"></script>
+ <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a92c3c4992ac40013760a9c&product=inline-share-buttons"></script>
+  <meta property="og:image"  content="https://alfajr-news.net/../uploads/posts/" />
+</head>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47482905-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6724441300489773",
+    enable_page_level_ads: true
+  });
+</script>
+
+<body>
+	<div class="body-inner-content">
+		<!-- top bar start -->
+		<section class="top-bar v4" id="index-top" >
+			<div class="container">
+				<div class="row">
+
+					<div class="col-md-8 align-self-center">
+						<div class="ts-breaking-news clearfix">
+							<h2 class="breaking-title float-left">
+								<i class="fa fa-bolt"></i> أخر الاخبار :
+							</h2>
+							<div class="breaking-news-content owl-carousel float-left" id="breaking_slider">
+							     								<div class="breaking-post-content">
+									<p>
+										<a href="https://alfajr-news.net/details/رئيس-الدولة-يتقبل-تعازي-حميد-النعيمي-وسعود-المعلا-والشيوخ-في-وفاة-الشيخة-مريم-الفلاسي">رئيس الدولة يتقبل تعازي حميد النعيمي وسعود المعلا والشيوخ في وفاة الشيخة مريم الفلاسي </a>
+									</p>
+								</div>								<div class="breaking-post-content">
+									<p>
+										<a href="https://alfajr-news.net/details/محمد-بن-راشد-يقدّم-واجب-العزاء-في-وفاة-الشيخة-مريم-بنت-عبدالله-بن-سليم-الفلاسي">محمد بن راشد يقدّم واجب العزاء في وفاة الشيخة مريم بنت عبدالله بن سليم الفلاسي</a>
+									</p>
+								</div>								<div class="breaking-post-content">
+									<p>
+										<a href="https://alfajr-news.net/details/وليا-عهد-الفجيرة-وأم-القيوين-يقدمان-واجب-العزاء-في-وفاة-الشيخة-مريم-الفلاسي">وليا عهد الفجيرة وأم القيوين يقدمان واجب العزاء في وفاة الشيخة مريم الفلاسي </a>
+									</p>
+								</div>								<div class="breaking-post-content">
+									<p>
+										<a href="https://alfajr-news.net/details/134-منقذاً-إماراتياً-يسابقون-الزمن-للعثور-على-ناجين-تحت-الأنقاض-إثر-زلزال-تركيا-وسوريا">134 منقذاً إماراتياً يسابقون الزمن للعثور على ناجين تحت الأنقاض إثر زلزال تركيا وسوريا </a>
+									</p>
+								</div>								<div class="breaking-post-content">
+									<p>
+										<a href="https://alfajr-news.net/details/ضمن-عملية-الفارس-الشهم-2-..-فريق-الإنقاذ-الإماراتي-يواصل-عملية-البحث-عن-ناجين-من-زلزال-تركيا">ضمن عملية (الفارس الشهم 2) .. فريق الإنقاذ الإماراتي يواصل عملية البحث عن ناجين من زلزال تركيا</a>
+									</p>
+								</div>								
+							</div>
+						</div>
+					</div>
+					<!-- end col-->
+
+					<div class="col-md-4 align-self-center pr-0">
+						<div class="text-left xs-left">
+							<div class="ts-date-item">
+								<i class="fa fa-calendar" aria-hidden="true"></i>
+						 <script src="https://alfajr-news.net/template/ar/js/date.js" type="text/javascript"></script> 
+							</div>
+						</div>
+					
+					</div>
+					<!--end col -->
+				</div>
+				<!-- end row -->
+			</div>
+		</section>
+		<!-- end top bar-->
+		<!-- ad banner start -->
+		<section class="header-middle container" >
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 align-self-center">
+						<div class="header-logo logo-io">
+							<a href="https://alfajr-news.net/">
+								<img src="https://alfajr-news.net/template/ar/images/logooo.png" alt="">
+							</a>
+                                   <a href="https://alfajr-news.net/" class="text-logo">جريده يومية - سياسية - مستقلة
+								<br>
+								<span>تأسست عام 1975</span>
+							</a>
+
+                    
+						</div>
+						
+					</div>
+				
+					<div class="col-md-5 align-self-center pl-0 pr-5">
+					           <!--size for ads -->
+			
+						
+						<div class="banner-imgr" style="    width: 95%;">
+						                     
+							<a href="#" target="_blank">
+								<img style="width:100% !important" class="img-fluid heiofj" src="https://alfajr-news.net/uploads/posts/862158f9fe78c5dfe20ddd197f22af18.jpg" alt="">
+							</a>
+						</div>
+					</div>
+						<div class="col-md-1 align-self-center pl-0 pr-5">
+						<div>
+								<a href="">
+								<img src="https://alfajr-news.net/uploads/44a916b52b439293a27a13b37e9b4d91.png" alt="" style="    width: 70px;">
+							</a>
+						</div>
+							</div>
+					<div class="col-md-2 align-self-center md-center-item ">
+						<div class="banner-imgr top-bar city-wea">
+							<div class="ts-temperature">
+								<i class="icon-weather"></i>
+								<span>25.8
+									<b>c</b>
+								</span>
+								<span class="n-city">Abu Dhabi
+								</span>
+
+							</div>
+
+						</div>
+						<ul class="footer-social-list text-right mt-3">
+							<li class="ts-facebook">
+								<a target="_blank" href="https://www.facebook.com/Alfajr-Newspaper-564597250224016/?notif_t=page_fan&notif_id=14858">
+									<i class="fa fa-facebook jkjkfd"></i>
+								</a>
+							</li>
+					
+							<li class="ts-twitter">
+								<a  target="_blank" href="https://twitter.com/ALFAJR_news_ae">
+									<i class="fa fa-twitter jkjkfd"></i>
+								</a>
+							</li>
+							<li class="ts-youtube">
+								<a target="_blank" href="https://www.youtube.com/channel/UCCEGCQ9ISI5OAfna1lJ8iYg">
+									<i class="fa fa-youtube-play jkjkfd"></i>
+								</a>
+							</li>
+							<li class="ts-linkedin">
+								<a target="_blank" href="https://www.instagram.com/alfajrnewsae/?hl=en">
+									<i class="fa fa-instagram jkjkfd"></i>
+								</a>
+	
+							</li>
+								<li class="ts-snapchat">
+								<a target="_blank" href="https://accounts.snapchat.com/">
+									<i class="fa fa-snapchat jkjkfd"></i>
+								</a>
+	
+							</li>
+						</ul>
+					</div>
+					<!-- col end -->
+				</div>
+				<!-- row  end -->
+			</div>
+			<!-- container end -->
+		</section>
+
+		<!-- header nav start-->
+		<header class="header-standerd container  ts-menu-sticky">
+			<div class="container">
+				<div class="row">
+
+					<!-- logo end-->
+					<div class="col-lg-12 new-psodi">
+						<!--nav top end-->
+						<nav class="navigation ts-main-menu navigation-landscape">
+							<div class="nav-header">
+								<a class="nav-brand mobile-logo visible-xs" href="https://alfajr-news.net/">
+									<!-- <img src="https://alfajr-news.net/template/ar/images/footer_logo.png" alt=""> -->
+								</a>
+								<div class="nav-toggle"></div>
+							</div>
+							<!--nav brand end-->
+							<div class="nav-menus-wrapper clearfix">
+								<!--nav right menu start-->
+								<ul class="right-menu align-to-left">
+									<!-- <li>
+										<a href="#">
+											<i class="fa fa-user-circle-o"></i>
+										</a>
+									</li> -->
+									<li class="header-search">
+										<div class="nav-search">
+											<div class="nav-search-button">
+												<i class="icon icon-search"></i>
+											</div>
+											<form action="https://alfajr-news.net/search" method="post">
+												<span class="nav-search-close-button" tabindex="0">✕</span>
+												<div class="nav-search-inner">
+													<input type="search" name="key" placeholder="ابحث في الموقع..">
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+								<!--nav right menu end-->
+
+								<!-- nav menu start-->
+								<ul class="nav-menu">
+									<li class="active">
+										<a href="https://alfajr-news.net/">الرئيسيه</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/emirates_news">أخبار الأمارات</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/international_arabic_news">أخبار عربية ودولية</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/sport">الفجر الرياضى</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/business_finance">مال وأعمال</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/health"> صحة و تغذية </a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/panorama"> بانوراما</a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/promo_news"> أخبار ترويجية</a>
+									</li>
+								
+									<li>
+										<a href="https://alfajr-news.net/module/gallery"> معرض الصور </a>
+									</li>
+									<li>
+										<a href="https://alfajr-news.net/module/video"> الفيديو  </a>
+									</li>
+									
+								
+									<li>
+										<a href="#">ملحق الجريده</a>
+										<ul class="nav-dropdown dir">
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/social" class="border-h">  مجتمع الامارات  </a>
+												<a href="https://alfajr-news.net/module/Misc" class="border-h2"> منوعات </a>
+											</li>
+
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/hams_alfajr" class="border-h"> همس الفجر</a>
+												<a href="https://alfajr-news.net/module/arts" class="border-h2"> فن عربي </a>
+											</li>
+
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/culture" class="border-h"> ثقافه </a>
+												<a href="https://alfajr-news.net/module/weman" class="border-h2"> مرأه </a>
+											</li>
+
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/world" class="border-h"> حول العالم </a>
+												<a href="https://alfajr-news.net/module/local" class="border-h2"> محليه </a>
+											</li>
+
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/sciences" class="border-h"> علوم </a>
+												<a href="https://alfajr-news.net/module/medicine" class="border-h2"> طب </a>
+											</li>
+
+											<li class="d-flex">
+												<a href="https://alfajr-news.net/module/foreign_art" class="border-h"> فن اجنبي </a>
+												<a href="https://alfajr-news.net/module/tourism" class="border-h2"> سياحه </a>
+											</li>
+										
+
+
+
+										</ul>
+									</li>
+									<!----> <li>
+										<a href="https://alfajr-news.net/magazine"> الاصدارات السابقه  </a>
+									</li> 
+							
+								</ul>
+								<!--nav menu end-->
+							</div>
+						</nav>
+						<!-- nav end-->
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- header nav end-->
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+ <script>
+	function getXMLHTTP() 
+{ //fuction to return the xml http object
+		var xmlhttp=false;	
+		try{
+			xmlhttp=new XMLHttpRequest();
+		}
+		catch(e)	{		
+			try{			
+				xmlhttp= new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			catch(e){
+				try{
+				xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+				}
+			catch(e1){
+					xmlhttp=false;
+				}
+			}
+	}
+		return xmlhttp;
+}
+function add_comment(strURL) {
+  var name=document.getElementById("name").value;
+   var email=document.getElementById("email").value;
+    var comment=document.getElementById("comment").value;
+    var post_id=document.getElementById("post_id").value;
+   // strURL=strURL+"/"+name;
+   // alert(name);
+	var req = getXMLHTTP();
+	if (req) {
+	req.onreadystatechange = function() {
+			if (req.readyState == 4) {
+				if (req.status == 200) {						
+					document.getElementById('comment_div').innerHTML=req.responseText;						
+				} else {
+					alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+				}
+			}				
+		}			
+		req.open("POST", strURL, true);
+		req.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+		req.send("name="+name+"&email="+email+"&comment="+comment+"&post_id="+post_id);
+	}			
+}
+
+
+function send_friend(strURL) {
+  var name=document.getElementById("from_name").value;
+  var email=document.getElementById("from_email").value;
+  var to=document.getElementById("fr_to").value;
+  var sub=document.getElementById("fr_subject").value;
+  var msg=document.getElementById("fr_msg").value;
+   // strURL=strURL+"/"+name;
+   // alert(name);
+	var req = getXMLHTTP();
+	if (req) {
+	req.onreadystatechange = function() {
+			if (req.readyState == 4) {
+				if (req.status == 200) {						
+					document.getElementById('friend_div').innerHTML=req.responseText;						
+				} else {
+					alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+				}
+			}				
+		}			
+		req.open("POST", strURL, true);
+		req.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+		req.send("name="+name+"&email="+email+"&to="+to+"&sub="+sub+"&msg="+msg);
+	}			
+}
+
+
+function rate(v) {
+
+    var post_id=document.getElementById("post_id").value;
+   // strURL=strURL+"/"+name;
+   //alert(v);
+	var req = getXMLHTTP();
+	if (req) {
+	req.onreadystatechange = function() {
+			if (req.readyState == 4) {
+				if (req.status == 200) {						
+					document.getElementById('rate_div').innerHTML=req.responseText;						
+				} else {
+					alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+				}
+			}				
+		}			
+		req.open("POST","https://alfajr-news.net/			home / rate", true);
+			req.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+			req.send("v="+v+"&post_id="+post_id);
+			}
+			}
+
+</script>
+<script type="text/javascript">
+	function CallPrint_posts() {
+		var disp_setting = "toolbar=yes,location=no,directories=yes,menubar=yes,";
+		disp_setting += "scrollbars=yes,width=750, height=700, left=100, top=25";
+		var content_vlue = document.getElementById("pr").innerHTML;
+
+		var docprint = window.open("", "", disp_setting);
+		docprint.document.open();
+		docprint.document.write('<html><head><title style="direction:rtl !important;">مجلة الفجر </title>');
+		docprint.document.write('</head><body onLoad="self.print()" style="direction:rtl !important;float: right !important;">');
+
+		docprint.document.write("<style>.prin{display:block !important;}.hid{display:none;}.top{margin-top:20px}.table td{text-align:right!important;border: 1px solid #ddd!important;padding:2px}.table th{text-align:right!important;border: 1px solid #ddd!important;}.table{width:900px !important;text-align:right!important}.dataTables_filter{display:none !important;}.dataTables_length{display:none !important;}.first paginate_button paginate_button_disabled{display:none !important;}.dataTables_paginate{display:none !important;}.acont{display:none !important;} #cr{display:none}#cr2{display:none}#tSortable_info{display:none}</style>");
+
+		docprint.document.write(content_vlue);
+		docprint.document.write('</center></body></html>');
+		docprint.document.close();
+		docprint.focus();
+		WinPrint.print();
+	}     
+</script>
+     <!-- bread cramb -->
+
+        <section class="block-wrapper mt-2">
+            <div class="container nopaddd">
+                <div class="row mb-3">
+                    <div class="col-lg-12">
+
+                        
+                        <div class=" back-bread">
+                            <ol class="ts-breadcrumb mb-0">
+                                <li>
+                                    <a href="https://alfajr-news.net/">
+                                        <i class="fa fa-home"></i>
+                                        الرئيسيه
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://alfajr-news.net/module/"> </a>
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- container end-->
+        </section>
+
+        <!-- end bread -->
+
+        <section  class="block-wrapper pt-0 dir">
+            <!-- inner content  -->
+
+            <div class="container">
+                <div class="row">
+                <div class="col-lg-9 col-md-8 pl-0 pr-1">
+                	<div class="ts-grid-box content-wrapper single-post"   id="pr">
+						<div class="entry-header">
+						      <meta property="og:image"  content="https://alfajr-news.net/../uploads/posts/" />
+						                    							<h2 class="post-title lg mb-3">
+                                                                </h2>
+                
+                            <!--<div class="ts-overlay-style nerei hid">-->
+                            <!--    <ul class="post-meta-info mb-2 hid">-->
+                            <!--        <li class="hid">-->
+                            <!--            <a href="" class="hfjfs hid">-->
+
+                            <!--                <i class="fa fa-newspaper-o" aria-hidden="true"></i>-->
+
+                            <!--                المصدر :   -->
+                            <!--            </a>-->
+                            <!--        </li>-->
+                            <!--        <li>-->
+                            <!--            <i class="fa fa-calendar"></i>-->
+                            <!--            1  يناير  1970 -->
+                            <!--        </li>-->
+                                 
+                            <!--        <li >-->
+                            <!--             <a onclick="CallPrint_posts()" style="cursor:pointer" class="color-a-tag"><i class="fa fa-2x fa-print "></i>-->
+                            <!--            طباعه-->
+                            <!--        </a>-->
+                            <!--        </li>-->
+                            <!--        <li class="active">-->
+                            <!--            <i class="icon-fire"></i>-->
+                            <!--             مشاهدة-->
+                            <!--        </li>-->
+                            <!--    </ul>-->
+                            <!--</div>-->
+						</div>
+						<!-- single post header end-->
+						<div class="post-content-area">
+							<div class="post-media post-featured-image">
+								<!--<a href="https://alfajr-news.net/uploads/posts/" class="gallery-popup">-->
+								<!--	<img src="https://alfajr-news.net/uploads/posts/"-->
+								<!--	class="img-fluid border-kjkf" alt="">-->
+								<!--</a>-->
+								<!--here -->
+							   	
+													
+							<a href="https://alfajr-news.net/uploads/posts/" class="gallery-popup">
+									<img src="https://alfajr-news.net/uploads/posts/"
+									class="img-fluid border-kjkf" alt="">
+								</a>
+																						<!--end -->
+							</div>
+														<div class="ts-overlay-style nerei hid">
+                                <ul class="post-meta-info mmmfkk mb-2 hid">
+                                    <li class="hid">
+                                        <a href="" class="hfjfs hid">
+
+                                            <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+
+                                            المصدر :                                           </a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-calendar"></i>
+                                        1  يناير  1970 
+                                    </li>
+                                 
+                                    <li >
+                                         <a onclick="CallPrint_posts()" style="cursor:pointer" class="color-a-tag"><i class="fa fa-2x fa-print "></i>
+                                        طباعه
+                                    </a>
+                                    </li>
+                                    <li class="active">
+                                        <i class="icon-fire"></i>
+                                         مشاهدة
+                                    </li>
+                                    <li>
+                                          
+                                          
+                                          
+                                            
+                                           
+                                    </li>
+                                </ul>
+                                
+                                        
+                            </div>
+													<div class="entry-content mt-3">
+							 	                                <div class="sharethis-inline-share-buttons"></div>
+                                									<p>
+                                                                      </p>
+														
+							<div class="row mb-4 hid">
+                                <div class="col-lg-12 align-self-center new-popxd">
+                                              <meta property="og:image"  content="https://alfajr-news.net/uploads/posts/" />
+<div class="row">
+                                 <div class="col-lg-9 align-self-center new-popxd">   <div class="sharethis-inline-share-buttons"></div>   </div>
+                                  <div class="col-lg-3 align-self-center new-popxd">  
+                                                            <input name="post_id" id="post_id" value="" type="hidden" />
+
+                                         <input name="my_input" value="" id="rating_simple3" type="hidden">
+                                          <input name="Hidden1" type="hidden" />
+                                          <div id="rate_div" style="margin-right:4px;color:#D50000"></div> </div>
+                                    
+                                    
+  <input name="my_input" value="" id="rating_simple3" type="hidden">
+  <input name="Hidden1" type="hidden" />
+  <div id="rate_div" style="margin-right:4px;color:#D50000"></div>
+
+  
+  </div>
+  
+    
+    <script language="javascript" type="text/javascript">
+           $(function() {
+                $("#rating_simple3").webwidget_rating_simple({
+                    rating_star_length: '5',
+                    rating_initial_value: '',
+                    rating_function_name: 'rate33',//this is function name for click
+                    directory: 'https://alfajr-news.net/template/ar/rating/'
+                });
+            });
+        </script>
+        
+                                    <!--<ul class="footer-social">
+                                        <li>
+                                            <h4 class="post-title">
+												تواصل معنا :
+											</h4>
+                                        </li>
+                                        <li class="ts-facebook">
+                                            <a href="#">
+                                                <i class="fa fa-facebook"></i>
+                                               
+                                            </a>
+                                        </li>
+                                        <li class="ts-google-plus">
+                                            <a href="#">
+                                                <i class="fa fa-google-plus"></i>
+                                          
+                                            </a>
+                                        </li>
+                                        <li class="ts-twitter">
+                                            <a href="#">
+                                                <i class="fa fa-twitter"></i>
+                                              
+                                            </a>
+                                        </li>
+                                        <li class="ts-pinterest">
+                                            <a href="#">
+                                                <i class="fa fa-pinterest-p"></i>
+                                             
+                                            </a>
+                                        </li>
+                                        <li class="ts-linkedin">
+                                            <a href="#">
+                                                <i class="fa fa-linkedin"></i>
+                                              
+                                            </a>
+                
+                                        </li>
+                                    </ul>-->
+                                </div>
+                            </div>
+                                                        <div class="row hid">
+                                <div class="col-md-6 col-sm-12 mb-3 ">
+                                    <div class="banner-img text-center height-banner-ads">
+                                        <a href="index.html">
+                                            <img class="img-fluid height-banner-ads" src="https://alfajr-news.net/template/ar/images/banner/banner2.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 mb-3 ">
+                                    <div class="banner-img text-center height-banner-ads">
+                                        <a href="index.html">
+                                            <img class="img-fluid height-banner-ads" src="https://alfajr-news.net/template/ar/images/banner/banner2.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 mb-3 ">
+                                    <div class="widgets widgets-item posts-ad dir bg-white mb-2 height-banner-ads223">
+                                        <a href="#">
+                                            <img class="img-fluid height-banner-ads223" src="https://alfajr-news.net/template/ar/images/RingCentral-reveals-end-to-end-encryption.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 mb-3 ">
+                                    <div class="widgets widgets-item posts-ad dir bg-white mb-2 height-banner-ads223">
+                                        <a href="#">
+                                            <img class="img-fluid height-banner-ads223" src="https://alfajr-news.net/template/ar/images/1217367.png" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+							
+							
+							</div>
+							<!-- entry content end-->
+						</div>
+					
+					</div>
+                    <!-- ts-populer-post-box end-->
+                </div>
+                
+  
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+</head>
+
+              <div class="col-lg-3 col-md-4 pr-0 pl-2">
+                     <div id="carouselExampleIndicators4" class="carousel slide" data-ride="carousel">
+                     
+                        <div class="carousel-inner ndmjfks mb-3">
+                              
+                            <!--slid 1 -->
+                                      <!--<script>alert('test_video')</script>-->
+                            <div class="carousel-item nfmkgl ndmjfks active">
+                                	 
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/c5349260a98c9dae3a38d95e24717265.jpg" alt="شعر قرام">                                
+                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/شعر-قرام"> الأكثر قراءة </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="شعر قرام " href="https://alfajr-news.net/details/شعر-قرام"> شعر قرام   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                <!--<script>alert('test_video')</script>-->
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                	 
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/987adc7e4e50ed4338c1bea6237c999e.jpg" alt="البيت متوحد">                                
+                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/البيت-متوحد_5"> الأكثر قراءة </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="البيت متوحد " href="https://alfajr-news.net/details/البيت-متوحد_5"> البيت متوحد   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                <!--<script>alert('test_video')</script>-->
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                	 
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/708ea2ac8454993d352f84d5cbb6c7d4.jpg" alt="جيناك يالمريخ">                                
+                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/جيناك-يالمريخ"> الأكثر قراءة </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="جيناك يالمريخ " href="https://alfajr-news.net/details/جيناك-يالمريخ"> جيناك يالمريخ   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                <!--<script>alert('test_video')</script>-->
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                	 
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/547397050526a7c2944d5a1a415c1ba2.jpg" alt="الأسَدْ">                                
+                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/الأسَدْ"> الأكثر قراءة </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="الأسَدْ " href="https://alfajr-news.net/details/الأسَدْ"> الأسَدْ   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                     
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators4" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators4" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+					<!-- الاكثر قرأه -->
+                    <!--<div class="ts-overlay-style">
+                        
+                                                 <div class="item dir " id="side-ssi">
+                            <div class="ts-post-thumb">
+                                <a class="post-cat ts-blue-bg" href="https://alfajr-news.net/details/شعر-قرام">الأكثر قراءة</a>
+                             <a href="https://alfajr-news.net/details/شعر-قرام">
+                                    <img class="img-fluid" src="https://alfajr-news.net/uploads/posts/small/c5349260a98c9dae3a38d95e24717265.jpg" alt="شعر قرام">
+                                </a>
+                               
+                            
+                            </div>
+    
+                            <div class="overlay-post-content">
+                                <div class="post-content">
+                                    <h3 class="post-title">
+                                        <a title="شعر قرام" href="https://alfajr-news.net/details/شعر-قرام"> شعر قرام</a>
+                                    </h3>
+                                    <ul class="post-meta-info">
+                                        <li>
+                                            <i class="fa fa-calendar"></i>
+                                            15  أغسطس  2020 
+                                        </li>
+                                        <li class="active">
+                                            <i class="icon-fire"></i>
+                                            157692 مشاهدة
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>                    </div>-->
+            
+                        <div class="posts-ad height-banner-ad">
+                            						<a target="balnk" href="#">
+							<img class="height-banner-ads2222" src="https://alfajr-news.net/uploads/posts/a1b78c5a2079851cf04131a9c4744f36.jpg" alt="">
+					</a>                            
+                           
+                        </div>
+                        
+                        
+                           <div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel">
+                     
+                        <div class="carousel-inner ndmjfks mb-3">
+                              
+                            <!--slid 1 -->
+                                                                        
+                            <div class="carousel-item nfmkgl ndmjfks active">
+                                  	
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/c8a94bdd85985ddde0c3c555b5c554f1.jpg" alt="أنجبت بغابة ورفضت كشف موقع الرضيع">
+                                                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/أنجبت-بغابة-ورفضت-كشف-موقع-الرضيع"> أخترنا لك  </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="أنجبت بغابة ورفضت كشف موقع الرضيع " href="https://alfajr-news.net/details/أنجبت-بغابة-ورفضت-كشف-موقع-الرضيع"> أنجبت بغابة ورفضت كشف موقع الرضيع   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                                              
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                  	
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/8f76704ad9dc0245ab80001adade06e8.jpg" alt="يتسللون إلى بنك عبر نفق">
+                                                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/يتسللون-إلى-بنك-عبر-نفق"> أخترنا لك  </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="يتسللون إلى بنك عبر نفق " href="https://alfajr-news.net/details/يتسللون-إلى-بنك-عبر-نفق"> يتسللون إلى بنك عبر نفق   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                                              
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                  	
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/381a1c04a2258127c649227bc586b984.jpg" alt="ماتت وسط الثلوج.. توثق آخر لحظاتها بفيديو">
+                                                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/ماتت-وسط-الثلوج..-توثق-آخر-لحظاتها-بفيديو"> أخترنا لك  </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="ماتت وسط الثلوج.. توثق آخر لحظاتها بفيديو " href="https://alfajr-news.net/details/ماتت-وسط-الثلوج..-توثق-آخر-لحظاتها-بفيديو"> ماتت وسط الثلوج.. توثق آخر لحظاتها بفيديو   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                                              
+                            <div class="carousel-item nfmkgl ndmjfks ">
+                                  	
+                                <img class="d-block w-100 height-banner-ads2222 ndmjfks " 
+                                src="https://alfajr-news.net/uploads/posts/small/5672de4a23a1ae905ca35b0d89fd2d6a.jpg" alt="هبوط طائرة بعد اشتعال لابتوب">
+                                                                      <a class="post-cat ts-green-bg mdmkfll" href="https://alfajr-news.net/details/هبوط-طائرة-بعد-اشتعال-لابتوب"> أخترنا لك  </a>
+                         
+                                <div class="carousel-caption d-none d-md-block  nerr ">
+                                    <div class=" post-content ">
+                                      <h3 class="post-title">
+                                            <a class="vdbnhj" title="هبوط طائرة بعد اشتعال لابتوب " href="https://alfajr-news.net/details/هبوط-طائرة-بعد-اشتعال-لابتوب"> هبوط طائرة بعد اشتعال لابتوب   </a>
+                                        </h3>
+                                        <!--<ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                                15  أغسطس  2020 
+                                            </li>
+                                       
+                                        </ul>-->
+                                    </div>
+                                   
+                                  </div>
+                              </div>                     
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators3" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators3" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                      
+                        
+                        
+                     <!--   <div class="ts-overlay-style">
+                                                         <div class="item dir">
+                                <div class="ts-post-thumb">
+                                    <a class="post-cat ts-green-bg"title="انطلاق الدورة الثامنة من مهرجان الوراقين للكتاب المستعمل " href="https://alfajr-news.net/details/انطلاق-الدورة-الثامنة-من-مهرجان-الوراقين-للكتاب-المستعمل"> أخترنا لك </a>
+                                    <a href="https://alfajr-news.net/details/انطلاق-الدورة-الثامنة-من-مهرجان-الوراقين-للكتاب-المستعمل" title="انطلاق الدورة الثامنة من مهرجان الوراقين للكتاب المستعمل ">
+                                        <img class="img-fluid" src="https://alfajr-news.net/uploads/posts/small/b08572890fbd904771fb38fda339d13a.jpg" alt="انطلاق الدورة الثامنة من مهرجان الوراقين للكتاب المستعمل ">
+                                    </a>
+                                </div>
+
+                                <div class="overlay-post-content">
+                                    <div class="post-content">
+                                        <h3 class="post-title">
+                                            <a href="https://alfajr-news.net/details/انطلاق-الدورة-الثامنة-من-مهرجان-الوراقين-للكتاب-المستعمل" title="انطلاق الدورة الثامنة من مهرجان الوراقين للكتاب المستعمل "> انطلاق الدورة الثامنة من مهرجان الوراقين للكتاب المستعمل </a>
+                                        </h3>
+                                        <ul class="post-meta-info">
+                                            <li>
+                                                <i class="fa fa-calendar"></i>
+                                               2  مارس  2023                                            </li>
+                                            <li class="active">
+                                                <i class="icon-fire"></i>
+                                                248 مشاهدة
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>                        
+                        </div>-->
+                        		<!-- widgets end-->
+						<div class="posts-ad height-banner-ad">
+						    					<a target="balnk" href="#">
+							<img class="height-banner-ads2222" src="https://alfajr-news.net/uploads/posts/7fcd8e29b2d31ca6c329c8f493658a9e.jpg" alt="">
+					</a> 						
+							
+						</div>
+						
+						
+                    <div class="fb-page" data-href="https://www.facebook.com/Alfajr-Newspaper-564597250224016/?notif_t=page_fan&amp;notif_id=14858" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Alfajr-Newspaper-564597250224016/?notif_t=page_fan&amp;notif_id=14858" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Alfajr-Newspaper-564597250224016/?notif_t=page_fan&amp;notif_id=14858">Alfajr Newspaper</a></blockquote></div>
+                     <br> <br>
+                     <center>   
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- ads num6 -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-6724441300489773"
+                         data-ad-slot="1324343445"
+                         data-ad-format="auto"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script></center>
+                    
+                    
+                    </div>  
+                </div>
+            </div>
+
+        </section>
+ 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<!-- footer start -->
+    	<footer class="ts-footer ts-footer-4 dir pt-3 pb-3">
+		<div class="container">
+			<div class="row footer-top">
+				<div class="col-md-6">
+					<div class="footer-logo footer-ma">
+						<div class=" logo-io logo-side-bar">
+							<a href=""><img src="https://alfajr-news.net/template/ar/images/logofooter2.png" alt=""></a>
+							<a href="https://alfajr-news.net/" class="text-logo">جريده يومية - سياسية - مستقله
+								<br>
+								<span>  
+									أسسها عام 1975 ويرأس تحريرها عبيد حميد المزروعي
+								</span>
+								<br>
+								<span>  
+								مدير التحرير د. شريف الباسل
+								</span>
+							</a>
+						</div>
+					</div>
+				</div>
+			
+				<!-- col end-->
+				<div class="col-md-6 align-self-center">
+					<ul class="footer-social-list text-right">
+						<li class="ts-facebook">
+							<a target="_blank" href="https://www.facebook.com/Alfajr-Newspaper-564597250224016/?notif_t=page_fan&notif_id=14858">
+								<i class="fa fa-facebook"></i>
+							</a>
+						</li>
+				
+						<li class="ts-twitter">
+							<a href="https://twitter.com/ALFAJR_news_ae" target="_blank">
+								<i class="fa fa-twitter"></i>
+							</a>
+						</li>
+						<li class="ts-youtube">
+							<a href="https://www.youtube.com/channel/UCCEGCQ9ISI5OAfna1lJ8iYg" target="_blank">
+								<i class="fa fa-youtube-play"></i>
+							</a>
+						</li>
+						<li class="ts-linkedin">
+							<a href="https://www.instagram.com/alfajrnewsae/?hl=en"  target="_blank">
+								<i class="fa fa-instagram"></i>
+							</a>
+
+						</li>
+							<li class="ts-snapchat">
+								<a target="_blank" href="https://accounts.snapchat.com/">
+									<i class="fa fa-snapchat"></i>
+								</a>
+	
+							</li>
+					</ul>
+				</div>
+				<!-- col end-->
+			</div>
+			<!-- row end-->
+			<div class="border-top mb-4"></div>
+			<div class="row">
+				<div class="col-lg-2 col-md-6">
+					<div class="footer-widget">
+						<h4 class="widget-title">روابط سريعه </h4>
+						<ul>
+							<li>
+								<a href="https://alfajr-news.net/"> الرئيسية
+								</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/emirates_news"> اخبار الإمارات</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/international_arabic_news">أخبار عربية و دولية</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/sport"> الفجر الرياضى</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/business_finance">المال والاعمال</a>
+							</li>
+			
+							<li>
+								<a href="https://alfajr-news.net/module/social"> مجتمع الإمارات</a>
+							</li>
+				
+					
+						
+						</ul>
+					</div>
+					<!-- footer widget end-->
+				</div>
+				<!-- col end-->
+				<div class="col-lg-2 col-md-6 mt-4">
+					<div class="footer-widget ">
+						<h4 class="widget-title "></h4>
+						<ul>
+							<li>
+								<a href="https://alfajr-news.net/module/promo_news">  أخبار ترويجية</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/hams_alfajr">  همس الفجر</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/world">حول العالم</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/panorama"> بانوراما</a>
+							</li>
+						
+							<li>
+								<a href="https://alfajr-news.net/module/tourism">سياحة</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/sciences">علوم</a>
+							</li>
+							
+						</ul>
+
+					</div>
+					<!-- footer widget end-->
+				</div>
+				<!-- col end-->
+				<div class="col-lg-2 col-md-6  mt-4">
+					<div class="footer-widget">
+						<h4 class="widget-title">  </h4>
+						<ul>
+						     							<li>
+								<a href="https://alfajr-news.net/details/">بيان الخصوصية </a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/health"> صحة و تغذية </a>
+							</li>
+					
+							<li>
+								<a href="https://alfajr-news.net/module/Misc">منوعات </a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/woman">المرأة </a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/local"> محلية </a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/medicine"> طب </a>
+							</li>
+						</ul>
+
+					</div>
+					<!-- footer widget end-->
+				</div>
+				<!-- col end-->
+				<div class="col-lg-2 col-md-6  mt-4">
+					<div class="footer-widget">
+						<h4 class="widget-title"> </h4>
+						<ul>
+							<li>
+								<a href="https://alfajr-news.net/magazine">الاصدارات السابقة</a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/culture">ثقافة وفنون</a>
+							</li>
+						
+							<li>
+								<a href="https://alfajr-news.net/module/foreign_art">فن اجنبى </a>
+							</li>
+							<li>
+								<a href="https://alfajr-news.net/module/arts">فن عربى  </a>
+							</li>
+						
+							<li>
+								<a href="https://alfajr-news.net/contact"> اتصل بنا </a>
+							</li>
+															<li>
+								<a href="https://alfajr-news.net/details/اعلن-معنا">اعلن معنا</a>
+							</li>
+						
+						</ul>
+					</div>
+					<!-- footer widget end-->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="footer-widget">
+						<h4 class="widget-title">معلومات التواصل</h4>
+						<ul>
+						
+							<li>
+								<span class="text-hgjk">
+								العنوان :
+								</span>
+								<a href="#">	ابوظبي الامارات العربية المتحدة </a>
+							</li>
+							<li>
+								<Span class="text-hgjk">الهاتف :</Span>
+								<a href="tel:24488300 971">24488300 971</a>
+							</li>
+							<li>
+								<Span class="text-hgjk">فاكس  :</Span>
+								<a href="#">	24488436 971 - 24489891 971 </a>
+							</li>
+							<li>
+								<Span class="text-hgjk">البريد الالكتروني :</Span>
+								<a href="mailto:">	 </a>
+							</li>
+							<li>
+							
+								<!-- <a href="#">	<img src="" alt=""> </a> -->
+								<div class="mt-2" style="   ">
+
+									<!--<a href="#" target="_blank">
+										<img src="https://alfajr-news.net/template/ar/images/android-google-1.png" style="    width: 129px;  margin-top: 7px;" alt="">
+									</a>
+									<a href="#" target="_blank">
+										<img src="https://alfajr-news.net/template/ar/images/appstore11.png" style="    width: 129px;  margin-top: 7px;" alt="">
+									</a>
+								-->
+
+								</div>
+							</li>
+						
+						
+						
+						</ul>
+					</div>
+					<!-- footer widget end-->
+				</div>
+				<!-- col end-->
+			</div>
+		</div>
+		<!-- container end-->
+	</footer>
+	<!-- footer end -->
+	<section class="copyright-section dir">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="copyright-text">
+						<p style="color: #7d91a0;">© 2013 <script>new Date().getFullYear()>2013&&document.write(" - "+new Date().getFullYear());</script>
+							
+							  جميع الحقوق محفوظة <a hrefhttps://alfajr-news.net/"#" class="text-ii"> لجريدة الفجر</a>.</p>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="footer-menu text-right">
+						<span style=" direction: rtl; "> 
+					
+          
+							<a href="https://esmart-vision.com/" target="_blank"> 
+								<img src="https://alfajr-news.net/template/ar/images/foter-logo-co.png" style="width:99px" alt="">
+							</a><a href="" class="font-11 text-black-777" style="
+							font-size:13px;color: #7d91a0;  margin-top: 7px; ">
+
+								powered by 
+							</a>	
+							
+					
+					</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- block wrapper end-->
+	</div>
+
+   <!-- stacky side  -->
+   <div id="stickySocial" class="sticky--right newwww-fixes">
+	<ul class="nav">
+		<li class="hover-i active"> <a href="https://alfajr-news.net/" title="الرئيسيه"><i class="fa fa-home" aria-hidden="true"></i><span></span> </a></li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/emirates_news"  title="أخبار الامارات"> <i class="fa fa-newspaper-o" aria-hidden="true"></i><span> </span> </a> </li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/international_arabic_news" title="  اخبار عربيه ودوليه"> <i class="fa fa-globe" aria-hidden="true"></i>	<span> </span> </a> </li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/sport" title=" الفجر الرياضي"> <i class="fa fa-futbol-o" aria-hidden="true"></i>	<span> </span> </a> </li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/business_finance"  title=" مال واعمال" > <i class="fa fa-money" aria-hidden="true"></i><span> </span> </a> </li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/gallery" title="  معرض الصور"> <i class="fa fa-image" aria-hidden="true"></i><span> </span> </a> </li>
+	
+		<!--<li class="hover-i"> <a href="#curr" title="   أسعار العملات"><i class="fa fa-usd" aria-hidden="true"></i>	<span> </span> </a> </li>-->
+	
+		<li class="hover-i"> <a href="https://alfajr-news.net/video" title="  معرض الفيديو"> <i class="fa fa-video-camera" aria-hidden="true"></i><span> </span> </a> </li>
+		<li class="hover-i"> <a href="https://alfajr-news.net/module/Misc"  title=" منوعات"><i class="fa fa-pencil-square-o" aria-hidden="true"></i><span> </span> </a> </li>
+	
+
+	</ul>
+</div>
+<!-- end  -->
+	<!-- javaScript Files
+	=============================================================================-->
+
+	<!-- initialize jQuery Library -->
+	<script src="https://alfajr-news.net/template/ar/js/jquery.min.js"></script>
+	<!-- navigation JS -->
+	<script src="https://alfajr-news.net/template/ar/js/navigation.js"></script>
+	<!-- Popper JS -->
+	<script src="https://alfajr-news.net/template/ar/js/popper.min.js"></script>
+
+	<!-- magnific popup JS -->
+	<script src="https://alfajr-news.net/template/ar/js/jquery.magnific-popup.min.js"></script>
+
+
+
+	<!-- Bootstrap jQuery -->
+	<!-- <script src="https://alfajr-news.net/template/ar/js/bootstrap.min.js"></script> -->
+	<script src="https://alfajr-news.net/template/ar/rtl//bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="https://alfajr-news.net/template/ar/js/owl-carousel.2.3.0.min.js"></script>
+	<!-- slick -->
+	<script src="https://alfajr-news.net/template/ar/js/slick.min.js"></script>
+
+	<!-- smooth scroling -->
+	<!-- <script src="https://alfajr-news.net/template/ar/js/smoothscroll.js"></script> -->
+	<script src="https://alfajr-news.net/template/ar/js/moment-with-locales.min.js"></script>
+<script src="https://alfajr-news.net/template/ar/js/ion.calendar.min.js"></script>
+
+<script src="https://alfajr-news.net/template/ar/js/main.js"></script>
+<script src="https://alfajr-news.net/template/ar/js/rating_simple.js"></script> 
+	<!-- side  -->
+	<script>
+	 $(function() {
+            $("#rating_simple3").webwidget_rating_simple({
+                rating_star_length: '5',
+                rating_initial_value: '',
+                rating_function_name: 'rate33',//this is function name for click
+                directory: 'https://alfajr-news.net/template/ar/rating/'
+            });
+        });
+                                                    
+		$(document).ready(function () {
+			$(".toggle").click(function () {
+				$("aside").toggleClass("close")
+			});
+		});
+
+		// click outside
+		$(document).mouseup(function (e) {
+			var container = $("aside");
+			if (!container.is(e.target) && container.has(e.target).length === 0) {
+				$("aside").removeClass("close")
+			}
+		});
+	</script>
+	<!-- time date  -->
+
+
+</body>
+
+</html>
